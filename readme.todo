@@ -1,0 +1,14 @@
+# starting the to do list
+
+project:
+  ✔ npm install the consumer and provider modules @done(22-11-09 21:58)
+  ✔ start up the provider @done(22-11-09 21:58)
+  ✔ create the .env file and put in the correct config @done(22-11-09 21:58)
+  ✔ grok the first test @done(22-11-09 22:02)
+  ✔ refactor the requests and responses into a fixture @done(22-11-09 22:31)
+  ☐ override the environment variables for pactflow
+  ☐ run jest with a --watch option
+  ☐ run jest with the debug option
+  ☐ document the steps to get started with new tests
+  ☐ consider running through a list of files with a single test
+  ☐ explore and perform all the matcher options
